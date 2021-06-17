@@ -1,0 +1,578 @@
+ID	Name	ParentID	AmazonCategoryId
+394	Arts, Crafts & Sewing		
+395	Automotive		
+396	Baby & Nursery		
+397	Beauty & Grooming		
+398	Blu-Ray & DVD		
+399	Books & Textbooks		
+400	Business & Industrial Supplies		
+401	CDs & Vinyl		
+402	Camera & Photo		
+403	Cell Phones & Accessories		
+404	Classical Music		
+405	Clothing & Accessories		
+406	Collectible Coins		
+407	Computers, Tablets & Components		
+408	Digital Music		
+409	Electronic Components & Home Audio		
+410	Entertainment Collectibles		
+411	Grocery & Gourmet Food		
+412	Health & Household		
+413	Home Improvement		
+414	Jewelry		
+415	Kindle Store		
+416	Kitchen & Dining		
+417	Magazines		
+418	Major Appliances		
+419	Miscellaneous		
+420	Musical Instruments		
+421	Office & School Supplies		
+422	Other Gift Card Brands		
+423	Patio, Lawn & Garden		
+424	Patio, Lawn & Garden		
+425	Pet Food & Supplies		
+426	Shoes, Handbags, Wallets, Sunglasses		
+427	Software		
+428	Sports & Fitness		
+429	Sports Collectibles		
+430	Toys & Games		
+431	VHS		
+432	Video Games		
+433	Video Games		
+434	Video On Demand: Rent or Buy		
+435	Watches		
+436	Beading & Jewelry Making	394	12896081
+437	Craft Supplies	394	378733011
+438	Fabric	394	12899121
+439	Fabric Painting & Dyeing	394	12896841
+440	Knitting & Crochet	394	12897221
+441	Needlework	394	2237329011
+442	Organization & Storage	394	2237594011
+443	Painting, Drawing & Art Supplies	394	2747968011
+444	Photography	394	12898411
+445	Printmaking	394	12898451
+446	Scrapbooking	394	12898821
+447	Sewing	394	12899091
+448	Thread	394	12897331
+449	Yarn	394	262625011
+450	Wheels & Tires	395	15706571
+451	Tools & Equipment	395	15706941
+452	RV Parts & Accessories	395	2258019011
+453	Replacement Parts	395	15719731
+454	Performance Parts & Accessories	395	15710351
+455	Paint & Paint Supplies	395	13591416011
+456	Oils & Fluids	395	15718791
+457	Motorcycle & ATV	395	346333011
+458	Light & Lighting Accessories	395	15736321
+459	Interior Accessories	395	15857501
+460	Exterior Accessories	395	15857511
+461	Car Care	395	15718271
+462	Travel Gear	396	17726796011
+463	Strollers	396	166842011
+464	Safety	396	166863011
+465	Potty Training	396	166887011
+466	Nursery	396	695338011
+467	Gifts	396	239226011
+468	For Moms	396	166804011
+469	Feeding	396	166777011
+470	Diapering	396	166764011
+471	Car Seats	396	166835011
+472	Baby Care	396	17720255011
+473	Activity & Entertainment	396	239225011
+474	Tools & Accessories	397	11062741
+475	Skin Care	397	11060451
+476	Makeup	397	11058281
+477	Hair Care	397	11057241
+478	Gift Sets	397	11057131
+479	Fragrance	397	11056591
+480	Foot, Hand & Nail Care	397	17242866011
+481	Bath & Shower	397	11055991
+482	Sports	398	467970
+483	Special Interests	398	163448
+484	Mystery & Suspense	398	512030
+485	Music Video & Concerts	398	163420
+486	Military & War	398	586156
+487	Kids & Family	398	163414
+488	Horror	398	163396
+489	Gay & Lesbian	398	301667
+490	Exercise & Fitness	398	578324
+491	Drama	398	163379
+492	Documentary	398	508532
+493	Comedy	398	163357
+494	Anime & Manga	398	517956
+495	Action & Adventure	398	163296
+496	Television	398	163450
+497	Westerns	398	163312
+498	Law	399	10777
+499	Teen & Young Adult	399	28
+500	Sports & Outdoors	399	26
+501	Self-Help	399	4736
+502	Science Fiction & Fantasy	399	25
+503	Science & Math	399	75
+504	Romance	399	23
+505	Religion & Spirituality	399	22
+506	Reference	399	21
+507	Politics & Social Sciences	399	3377866011
+508	Parenting & Relationships	399	20
+509	Mystery, Thriller & Suspense	399	18
+510	Medical Books	399	173514
+511	Literature & Fiction	399	17
+512	LGBTQ+ Books	399	301889
+513	Arts & Photography	399	1
+514	Biographies & Memoirs	399	2
+515	Business & Money	399	3
+516	Calendars	399	3248857011
+517	Children's Books	399	4
+518	Christian Books & Bibles	399	12290
+519	Comics & Graphic Novels	399	4366
+520	Computers & Technology	399	5
+521	Cookbooks, Food & Wine	399	6
+522	Crafts, Hobbies & Home	399	48
+523	Education & Teaching	399	8975347011
+524	Engineering & Transportation	399	173507
+525	Health, Fitness & Dieting	399	10
+526	History	399	9
+527	Humor & Entertainment	399	86
+528	Test Preparation	399	5267710011
+529	Travel	399	27
+530	Raw Materials	400	16310191
+531	Precision Measurement Products	400	256409011
+532	Packaging & Shipping Supplies	400	8553197011
+533	Mechanical Components	400	16310181
+534	Material Handling Equipment	400	256346011
+535	Industrial Hoses	400	256330011
+536	Industrial Adhesives	400	256225011
+537	Industrial Abrasives	400	256167011
+538	Adhesive Tapes	400	256159011
+539	Special Interest	401	35
+540	Children's Music	401	173425
+541	Christian & Gospel	401	173429
+542	Classic Rock	401	67204
+543	Classical	401	85
+544	Comedy & Spoken Word	401	63936
+545	Country	401	16
+546	Dance & Electronic	401	7
+547	Folk	401	32
+548	Holiday & Wedding	401	292572
+549	Indie & Alternative	401	21165438011
+550	International Music	401	33
+551	Broadway & Vocalists	401	265640
+552	Jazz	401	34
+553	Latin Music	401	289122
+554	Metal	401	67207
+555	Music Video & Concerts	401	163420
+556	New Age	401	36
+557	Opera & Classical Vocal	401	84
+558	Pop	401	37
+559	R&B	401	39
+560	Rap & Hip-Hop	401	38
+561	Reggae	401	63885
+562	Rock	401	40
+563	Soundtracks	401	42
+564	Karaoke	401	63945
+565	Blues	401	31
+566	Surveillance Cameras	402	898400
+567	Point-and-Shoot Digital Cameras	402	330405011
+568	Lenses	402	499248
+569	Digital SLRs	402	3017941
+570	Digital Photo Frames	402	525460
+571	Cases & Bags	402	172437
+572	Camcorders	402	172421
+573	Binoculars, Telescopes & Optics	402	499320
+574	Accessories	402	172435
+575	SIM Cards & Prepaid Minutes	403	3345523011
+576	Cell Phones	403	7072561011
+577	Cases, Holsters & Sleeves	403	2407760011
+578	Accessories	403	2407755011
+579	Variations	404	36704
+580	Concertos	404	36636
+581	Etudes	404	36640
+582	Fantasies	404	36641
+583	Fugues	404	36643
+584	Improvisation	404	36644
+585	Inventions	404	36645
+586	Lullabies & Berceuse	404	36646
+587	Oratorio	404	67138
+588	Preludes	404	36648
+589	Requiems, Elegies & Tombeau	404	36649
+590	Rondos	404	36653
+591	Scherzo	404	301414011
+592	Serenades & Divertimentos	404	36657
+593	Short Forms	404	36661
+594	Sonatas	404	36668
+595	Suites	404	36675
+596	Symphonies	404	63681
+597	Theatrical, Incidental & Program Music	404	36684
+598	Toccatas	404	36703
+599	Canons	404	36635
+600	Ballads	404	36634
+601	Warranties & Services	407	16285851
+602	Tablets	407	1232597011
+603	Tablet Accessories	407	2348628011
+604	Servers	407	11036071
+605	Scanners	407	172584
+606	Routers	407	300189
+607	Printers	407	172635
+608	Networking Products	407	172504
+609	Monitors	407	1292115011
+610	Laptops	407	565108
+611	Laptop Accessories	407	3011391011
+612	External Components	407	3012292011
+613	Desktops	407	565098
+614	Data Storage	407	1292110011
+615	Computer Components	407	193870011
+616	Computer Accessories & Peripherals	407	172456
+617	Songs	408	324382011
+618	Holiday MP3s	408	2238043011
+619	Black Friday Deals	408	2238044011
+620	Albums	408	324381011
+621	Wearable Technology	409	10048700011
+622	Car & Vehicle Electronics	409	3248684011
+623	Cell Phones & Accessories	409	2811119011
+624	Computers & Accessories	409	541966
+625	eBook Readers & Accessories	409	2642125011
+626	Electronics Warranties	409	2242348011
+627	GPS, Finders & Accessories	409	172526
+628	Headphones	409	172541
+629	Home Audio	409	667846011
+630	Household Batteries, Chargers & Accessories	409	21608214011
+631	Office Electronics	409	172574
+632	Portable Audio & Video	409	172623
+633	Power Accessories	409	21608215011
+634	Security & Surveillance	409	524136
+635	Service Plans	409	16285901
+636	Television & Video	409	1266092011
+637	Video Game Consoles & Accessories	409	7926841011
+638	Video Projectors	409	300334
+639	Camera & Photo	409	502394
+640	Accessories & Supplies	409	281407
+641	Wardrobe Items	410	5263624011
+642	Artwork By Celebrities	410	6250511011
+643	Backstage Passes	410	5263599011
+644	Books	410	5263600011
+645	Comic Art	410	7463351011
+646	Comic Books	410	11873140011
+647	Contracts	410	5263604011
+648	Correspondence	410	5263605011
+649	Cut Signatures	410	5931157011
+650	Figurines	410	19419881011
+651	Flyers	410	5263607011
+652	Framed Record Award Sets	410	5525078011
+653	Lobby Cards	410	10434532011
+654	Magazines	410	5263609011
+655	Apparel	410	5263598011
+656	Movies & Music	410	10394942011
+657	Photographs	410	5263611011
+658	Plates	410	5263612011
+659	Playbills	410	5263613011
+660	Postcards	410	5263614011
+661	Prints & Posters	410	5227492011
+662	Programs	410	5263615011
+663	Props	410	5263616011
+664	Publicity Photo Cards	410	5263617011
+665	Scripts	410	5263618011
+666	Sheet Music	410	5263619011
+667	Signed Personal Checks	410	5263610011
+668	Ticket Stubs	410	5263620011
+669	Trading Cards	410	5263621011
+670	Musical Instruments	410	5263608011
+671	Animation	410	7463352011
+672	Snack Foods	411	16322721
+673	Beverages	411	16310231
+674	Breads & Bakery	411	16318751
+675	Breakfast Foods	411	16310251
+676	Candy & Chocolate	411	16322461
+677	Dairy, Cheese & Eggs	411	371460011
+678	Deli & Prepared Foods	411	18773724011
+679	Food & Beverage Gifts	411	2255571011
+680	Fresh Flowers & Live Indoor Plants	411	3745171
+681	Fresh Meal Kits	411	15709227011
+682	Frozen	411	6459122011
+683	Home Brewing & Winemaking	411	979861011
+684	Meat & Seafood	411	371469011
+685	Meat Substitutes	411	6518859011
+686	Pantry Staples	411	18787303011
+687	Produce	411	6506977011
+688	Baby Foods	411	16323111
+689	Alcoholic Beverages	411	2983371011
+690	Wellness & Relaxation	412	10079996011
+691	Vitamins & Dietary Supplements	412	3764441
+692	Vision Care	412	10079994011
+693	Sports Nutrition	412	6973663011
+694	Sexual Wellness	412	3777371
+695	Sales & Deals	412	353413011
+696	Personal Care	412	3777891
+697	Oral Care	412	10079992011
+698	Medical Supplies & Equipment	412	3775161
+699	House Supplies	412	15342811
+700	Health Care	412	3760941
+701	Baby & Child Care	412	10787321
+702	Storage & Home Organization	413	13400631
+703	Safety & Security	413	3180231
+704	Rough Plumbing	413	13749581
+705	Power & Hand Tools	413	328182011
+706	Paint, Wall Treatments & Supplies	413	228899
+707	Measuring & Layout Tools	413	553244
+708	Lighting & Ceiling Fans	413	495224
+709	Kitchen & Bath Fixtures	413	3754161
+710	Hardware	413	511228
+711	Electrical	413	495266
+712	Building Supplies	413	551240
+713	Appliances	413	13397451
+714	Air Tools	413	552684
+715	Kindle Vella	415	21165462011
+716	Kindle Singles	415	2486013011
+717	Kindle Short Reads	415	8584457011
+718	Kindle Newsstand	415	241646011
+719	Kindle Newspapers	415	165389011
+720	Kindle eBooks	415	154606011
+721	Kindle Active Content	415	2240131011
+722	Wine Accessories	416	13299291
+723	Water Coolers & Filters	416	510202
+724	Travel & To-Go Drinkware	416	9630569011
+725	Storage & Organization	416	510136
+726	Small Appliances	416	289913
+727	Small Appliance Parts & Accessories	416	1267449011
+728	Kitchen Utensils & Gadgets	416	289754
+729	Kitchen & Table Linens	416	1063916
+730	Home Brewing & Wine Making	416	979832011
+731	Food Service Equipment & Supplies	416	6054382011
+732	Dining & Entertaining	416	13162311
+733	Cutlery & Knife Accessories	416	289851
+734	Cookware	416	289814
+735	Coffee, Tea & Espresso	416	915194
+736	Bakeware	416	289668
+737	Women's Interest	417	602372
+738	Bridal	417	602318
+739	Business & Finance	417	602320
+740	Children's	417	602322
+741	Computer & Internet	417	602324
+742	Electronics & Audio	417	602326
+743	Entertainment	417	602328
+744	Family & Parenting	417	602330
+745	Fashion & Style	417	602332
+746	Food & Gourmet	417	602334
+747	Games & Hobbies	417	602336
+748	Gay & Lesbian	417	602338
+749	Health & Fitness	417	602340
+750	History	417	602342
+751	Home & Garden	417	602344
+752	Lifestyle & Cultures	417	602348
+753	Literary	417	602350
+754	Men's Interest	417	602352
+755	Music	417	602354
+756	News & Politics	417	602358
+757	Pets	417	602360
+758	Religion & Spirituality	417	602362
+759	Science & Nature	417	602364
+760	Sports & Leisure	417	602366
+761	Teens	417	602368
+762	Travel & Regional	417	602370
+763	Automotive	417	602316
+764	Arts & Crafts	417	602314
+765	Wine Cellars	418	3741521
+766	Washers & Dryers	418	2383576011
+767	Warming Drawers	418	2399955011
+768	Wall Ovens	418	3741481
+769	Refrigerators	418	3741361
+770	Ranges	418	3741411
+771	Range Hoods	418	3741441
+772	Ice Makers	418	2399939011
+773	Freezers	418	3741331
+774	Dishwashers	418	3741271
+775	Cooktops	418	3741261
+776	Appliance Warranties	418	2242350011
+777	Yearbooks	419	7515672011
+778	Wedding Ceremony Accessories	419	2280760011
+779	Watercraft	419	10368751
+780	Vehicles	419	10368811
+781	General	419	404542011
+782	Erotic Magazines	419	7515671011
+783	Electronics	419	2237066011
+784	Collectibles	419	10368761
+785	Collectible Stamps	419	10304221
+786	Coins	419	10304201
+787	Antiques	419	10304251
+788	Aircraft	419	10368731
+789	Ukuleles, Mandolins & Banjos	420	14733114011
+790	Recording Equipment	420	11973111
+791	Live Sound & Stage	420	405757011
+792	Keyboards	420	11969981
+793	Instrument Accessories	420	11965871
+794	Guitars	420	11971241
+795	Drums & Percussion	420	11970241
+796	DJ, Electronic Music & Karaoke	420	11973881
+797	Bass Guitars	420	11971311
+798	Band & Orchestra	420	405758011
+799	Office Supplies	421	1069242
+800	Office Lighting	421	1068956
+801	Office Furniture & Accessories	421	1069102
+802	Office Electronics	421	172574
+803	Mailroom Supplies	421	1068972
+804	Educational Supplies	421	12899801
+805	Business Presentation Supplies	421	1069254
+806	Winter Holidays	422	2973129011
+807	Wedding & Engagement	422	2973128011
+808	Thank You & Appreciation	422	2973125011
+809	Teens	422	2973101011
+810	Restaurants	422	2973090011
+811	New Year's	422	2973120011
+812	Mother's Day	422	2973118011
+813	Kids	422	2973100011
+814	Graduation	422	2973114011
+815	For Him	422	2973098011
+816	For Her	422	2973099011
+817	Father's Day	422	2973112011
+818	Departments	422	2864120011
+819	Christmas	422	2973107011
+820	Birthday	422	2973106011
+821	Baby & Expecting	422	2973104011
+822	Wall Décor	423	3736081
+823	Vacuums & Floor Care	423	510106
+824	Storage & Organization	423	3610841
+825	Seasonal Décor	423	13679381
+826	Kitchen & Dining	423	284507
+827	Kids' Home Store	423	3206325011
+828	Irons & Steamers	423	510240
+829	Home Décor	423	1063278
+830	Heating, Cooling & Air Quality	423	3206324011
+831	Furniture	423	1063306
+832	Cleaning Supplies	423	10802561
+833	Bedding	423	1063252
+834	Bath	423	1063236
+835	Snow Removal	424	3043471
+836	Pools, Hot Tubs & Supplies	424	1272941011
+837	Pest Control	424	553844
+838	Patio Furniture & Accessories	424	553824
+839	Outdoor Storage	424	13400641
+840	Outdoor Heating	424	13638732011
+841	Outdoor Décor	424	553788
+842	Mowers & Outdoor Power Tools	424	551242
+843	Grills & Outdoor Cooking	424	553760
+844	Generators & Portable Power	424	552808
+845	Gardening	424	3610851
+846	Farm & Ranch	424	4619352011
+847	Small Animals	425	2975520011
+848	Reptiles & Amphibians	425	2975504011
+849	Insects	425	2975497011
+850	Horses	425	2975481011
+851	Fish & Aquatic Pets	425	2975446011
+852	Dogs	425	2975312011
+853	Cats	425	2975241011
+854	Birds	425	2975221011
+855	Video	427	290542
+856	Utilities	427	229672
+857	Tax Preparation	427	229545
+858	Programming & Web Development	427	5223262011
+859	Photography	427	229621
+860	Operating Systems	427	229653
+861	Networking & Servers	427	229637
+862	Music	427	497022
+863	Mac Software	427	229643
+864	Lifestyle & Hobbies	427	229624
+865	Education & Reference	427	229563
+866	Design & Illustration	427	229614
+867	Children's Software	427	229548
+868	Business & Office	427	229535
+869	Antivirus & Security	427	229677
+870	Accounting & Finance	427	5223260011
+871	Sports & Fitness	428	10971181011
+872	Outdoor Recreation	428	706814011
+873	Fan Shop	428	3386071
+874	Trophies	429	5395823011
+875	Baseball Bases	429	5395827011
+876	Bats	429	3311045011
+877	Bobbleheads	429	3311046011
+878	Books	429	3311047011
+879	Clothing & Uniforms	429	7702506011
+880	Coins	429	9481778011
+881	Cut Signatures	429	5931158011
+882	Diecast Cars	429	7702514011
+883	Figurines	429	7702516011
+884	Flags & Banners	429	3311048011
+885	Gloves	429	3311051011
+886	Golf Clubs	429	3311052011
+887	Hats	429	3311053011
+888	Balls	429	3311044011
+889	Helmets	429	3311054011
+890	Hockey Sticks & Blades	429	3311058011
+891	Jerseys	429	3311061011
+892	Lineup Cards	429	5395826011
+893	Magazines	429	3311062011
+894	Personal Checks	429	5395829011
+895	Photographs	429	3311063011
+896	Postcards & Index Cards	429	3311064011
+897	Prints & Posters	429	3311067011
+898	Publications & Media	429	7702507011
+899	Shoes	429	3311068011
+900	Stadium Components	429	5395825011
+901	Ticket Stubs	429	3311069011
+902	Trading Cards	429	3311070011
+903	Hockey Pucks	429	3311057011
+904	Automotive Racing Parts	429	5395824011
+905	Tricycles, Scooters & Wagons	430	256994011
+906	Building Toys	430	166092011
+907	Collectible Toys	430	19431275011
+908	Dolls & Accessories	430	166118011
+909	Dress Up & Pretend Play	430	166316011
+910	Games & Accessories	430	166220011
+911	Hobbies	430	276729011
+912	Kids' Electronics	430	166164011
+913	Kids' Furniture, Décor & Storage	430	166210011
+914	Learning & Education	430	166269011
+915	Novelty & Gag Toys	430	166027011
+916	Party Supplies	430	1266203011
+917	Play Vehicles	430	166508011
+918	Puppets & Puppet Theaters	430	166333011
+919	Puzzles	430	166359011
+920	Sports & Outdoor Play	430	166420011
+921	Stuffed Animals & Plush Toys	430	166461011
+922	Toy Figures & Playsets	430	165993011
+923	Baby & Toddler Toys	430	196601011
+924	Arts & Crafts	430	166057011
+925	Widescreen	431	692184
+926	Animation	431	712260
+927	Anime & Manga	431	281300
+928	Art House & International	431	126
+929	Boxed Sets	431	501232
+930	Classics	431	127
+931	Comedy	431	128
+932	Cult Movies	431	162482
+933	Documentary	431	508530
+934	Drama	431	129
+935	Educational	431	290220
+936	Fitness	431	169660
+937	African American Cinema	431	301597
+938	Gay & Lesbian	431	301665
+939	Kids & Family	431	132
+940	Military & War	431	586154
+941	Music Video & Concerts	431	133
+942	Musicals & Performing Arts	431	508526
+943	Mystery & Suspense	431	512026
+944	Science Fiction & Fantasy	431	144
+945	Spanish Language	431	541660
+946	Special Interests	431	135
+947	Sports	431	169798
+948	Television	431	136
+949	Westerns	431	139725
+950	Horror	431	131
+951	Action & Adventure	431	141
+952	Xbox Series X & S	433	20972798011
+953	Installation Services	433	2686472011
+954	Legacy Systems	433	294940
+955	Mac	433	229647
+956	Microconsoles	433	19497043011
+957	Nintendo 3DS & 2DS	433	2622269011
+958	Nintendo Switch	433	16227128011
+959	Digital Games	433	979455011
+960	Online Game Services	433	17596052011
+961	PlayStation 4	433	6427814011
+962	PlayStation 5	433	20972781011
+963	PlayStation Vita	433	3010556011
+964	Virtual Reality	433	21479453011
+965	Warranties	433	2242351011
+966	Xbox One	433	6469269011
+967	PC	433	229575
+968	Accessories	433	471304
+969	TV	434	16262841
+970	Movies	434	16386761
